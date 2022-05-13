@@ -1,0 +1,15 @@
+
+
+#clock{
+    color: deepskyblue;
+    font-size: 140px;
+
+}
+
+.center {
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
